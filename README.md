@@ -1,7 +1,7 @@
 # BT3_Mobile
 Bài tập 03 của sinh viên: K225480106057 - Phạm Mạnh Quỳnh - môn Phát triển ứng dụng trên thiết bị di động
 
-# BÀI TẬP 2 – XÂY DỰNG ỨNG DỤNG ĐA MÀN HÌNH, GIẢI TOÁN VÀ TÍCH HỢP WEBVIEW BẰNG ANDROID STUDIO
+# BÀI TẬP 3 – XÂY DỰNG ỨNG DỤNG ĐA MÀN HÌNH, GIẢI TOÁN VÀ TÍCH HỢP WEBVIEW BẰNG ANDROID STUDIO
 
 ---
 
